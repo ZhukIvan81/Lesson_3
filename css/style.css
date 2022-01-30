@@ -1,0 +1,40 @@
+@import "null.css";
+.content {
+   color: brown;
+}
+li>a {
+   color: crimson;
+}
+h2,
+h3,
+h4 {
+   color: darkmagenta;
+}
+a {
+   color: darkred;
+}
+.history {
+   color: darkgreen;
+}
+.geo {
+   color: rgb(8, 83, 158);
+}
+.geo-rivers {
+   color: deepskyblue;
+}
+.geo.protect {
+   color: darksalmon;
+}
+#war {
+   color: olivedrab;
+}
+#gates,
+#wall {
+   color: saddlebrown;
+}
+section {
+   color: magenta;
+}
+section>p {
+   color: mediumblue;
+}
